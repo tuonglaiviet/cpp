@@ -5,6 +5,9 @@
   ÂN Group - www.angroup.one
   
   Ghi chú: Dãy Fibo là gì? - https://vi.wikipedia.org/wiki/D%C3%A3y_Fibonacci
+
+           Đệ quy nhị phân (Binary Recursion): Đệ quy nhị phân là dạng đệ quy gọi hai lần chính nó. 
+           Hiểu đơn giản là trong một hàm đệ quy, mà có dòng lệnh gọi chính hàm đó hai lần.
 */
 
 #include<stdio.h>
