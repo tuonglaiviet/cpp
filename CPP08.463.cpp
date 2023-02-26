@@ -1,3 +1,9 @@
+/*
+  Chương 8: Trừu tượng hóa dữ liệu
+  Bài 463: Hãy khai báo kiểu dữ liệu biểu diễn khái niệm phân số trong toán học và định nghĩa hàm nhập, hàm xuất cho kiểu dữ liệu này
+  ÂN Group - www.angroup.one
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
