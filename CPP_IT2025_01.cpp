@@ -4,14 +4,13 @@
 // Your Task: In the function helloWorld(), output a line "Hello World" (without quotes).
 // ---------------------------------------------------------------------------------------------------
 //{ Driver Code Starts
-#include<iostream>
+#include <iostream>;
 using namespace std;
 // } Driver Code Ends
 
 class Solution{
     public:
-    void helloWorld()
-    {
+    void helloWorld(){
         //Type code here
     }
 };
